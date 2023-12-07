@@ -1,1 +1,7 @@
 Base de données
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<p> Using the data set <a href="/ECON523/exercises/ECON523-E8-meyersson-data.dta">ECON523-E8-meyersson-data.dta</a>, replicate Table 1, Table 2 (only the first half, 
+on page 247, and only columns 1 through 8 of the results), and Figure 2a from <a href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA9878">Islamic Rule and the Empowerment of the Poor and Pious</a> 
+by Erik Meyersson. Upload pdfs of your finished tables and figure to gradescope, together with the file that generates them. </p>
+  </html>
