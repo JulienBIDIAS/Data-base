@@ -17,3 +17,18 @@ control. Overall, when Turkey elected Islamic mayors through fair voting, it hel
 more into education and politics. Surprisingly, this didn’t make people more Islamic over time.
 This mainly happened in poorer and religious parts of Turkey, showing that it boosted the less
 fortunate and religious people.
+
+# Conclusion 
+
+Through Meyersson’s article, I learned a lot about studying the effects of public policies
+using a regression discontinuity model. One important thing I got from this study is the positive
+impact that municipalities led by the Islamic party, previously criticized for its views on women,
+had on empowering and educating women aged 15 to 20. Islamic mayors clearly encouraged
+more women to get involved, both in education and politics, without showing strong party preferences.
+However, the article also points out a big problem with the way the author studied
+things, called the external validity problem. It means that the results should be understood in a
+specific context because of the unique nature of Turkish local politics. So, it’s hard to separate
+the positive effect of Islamic rule on disadvantaged and religious communities from the things
+that make it difficult for them to get involved in the first place. These things show why we need
+to be careful in how we study things and really understand the situation when we look at the
+results of this analysis.
